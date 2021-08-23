@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "firstName": "John", "lastName":"Doe", "email":"johndoe@gmail.com" }
+  ],
+  "todos": [
+    { "userId": 1, "todoId": 1, "title": "Complete 273 Refresher Homework" }
+  ]
+}
